@@ -1,0 +1,54 @@
+{
+    "name": "Gravitee IO",
+    "description": "<p><span>Gravitee.io is a flexible, lightweight and blazing-fast open source API Management solution that helps your organization control finely who, when and how users access your APIs.<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28215-gravitee-io.jpg",
+    "tags": [
+        "api service provider",
+        "authentication",
+        "have api",
+        "management"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gravitee-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Gravitee IO",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28215-gravitee-io.jpg",
+            "humanURL": "https:\/\/gravitee.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gravitee-io-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gravitee-io-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/gravity"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/gravitee-io"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/GraviteeIO"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/gravitee.io"
+        }
+    ]
+}
